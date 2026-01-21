@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="ar">
-<<meta name="google-site-verification" content="0lNE4Y3s0Esnu5MFa1ZSX96KxYrjPXrFITMwT1fx_sU" />head>
+<head>
 <meta charset="UTF-8">
+  <meta name="google-site-verification" content="0lNE4Y3s0Esnu5MFa1ZSX96KxYrjPXrFITMwT1fx_sU" />
 <title>المستشار الجامعي الذكي</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap" rel="stylesheet">
