@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ar">
 <meta name="google-site-verification" content="0lNE4Y3s0Esnu5MFa1ZSX96KxYrjPXrFITMwT1fx_sU" />
-  <head>
+ <head>
 <meta charset="UTF-8">
 <title>المستشار الجامعي الذكي</title>
 
